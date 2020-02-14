@@ -13,7 +13,7 @@ IMPORTANT NOTE:
 **!! GPU modules can be used ONLY with NVIDIA hardware and CUDA tools !!**
 
 For details, see the link on the wiki installation guide page:
-http://wiki.opengatecollaboration.org/index.php/New_Compilation_ProcedureV7.0#GPU_.26_CUDA_tools
+https://opengate.readthedocs.io/en/latest/compilation_instructions.html#gpu-cuda-tools
 
 PET applications
 ----------------
